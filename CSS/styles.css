@@ -1,0 +1,119 @@
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  color:  #66BFBF;
+  line-height: 1;
+}
+.pro {
+  text-decoration: underline;
+}
+h2 {
+font-size: 2.5rem;
+color:  #66BFBF;
+}
+h3 {
+font-size: 1.5rem;
+font-family: 'Varela Round', sans-serif;
+color: #11999E;
+font-weight: normal;
+}
+
+body {
+text-align: center;
+   margin: 0;
+   font-family: 'Montserrat', sans-serif;
+
+}
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 60px;
+  position: relative;
+}
+.hr {
+  border: 0;
+  border-top: 5px;
+  color: #EAF6F6;
+  border-style: dotted;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+.football-icon {
+  height: 125px;
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.programming-img {
+  float: right;
+  margin-left: 30px;
+}
+.profile-picture {
+  height: 150px;
+  width: 150px;
+
+}
+.paragraph {
+  color: #40514E;
+
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: white;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+text-align: left;
+line-height: 1;
+}
+.btn {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:42px;
+	border:3px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 36px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+  margin: 20px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container {
+  height: 100px;
+  margin: 10px 0 0;
+  padding-top: 30px;
+background-color:  #66BFBF;
+}
+.copyright{
+  color: #EAF6F6;
+}
